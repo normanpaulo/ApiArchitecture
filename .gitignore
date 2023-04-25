@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/SampleWebAPI/.vs
+/SampleWebAPI/SampleBLClass/bin/Debug/net6.0
+/SampleWebAPI/SampleBLClass/obj
+/SampleWebAPI/SampleDALClass/bin/Debug/net6.0
+/SampleWebAPI/SampleDALClass/obj
+/SampleWebAPI/SampleWebAPI/bin/Debug/net6.0
+/SampleWebAPI/SampleModel/bin/Debug/net6.0
+/SampleWebAPI/SampleModel/obj
+/SampleWebAPI/SampleWebAPI/obj
